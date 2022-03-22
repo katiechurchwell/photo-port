@@ -5,20 +5,18 @@
 
 ## Summary
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 A photography portfolio built with React.
 
 ## Deployment
-```npm start```
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+```npm start``` - Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
 
 
 ## Screenshot
-Coming soon!
+![Screenshot of the photography portfolio](/screenshot.png)
 
 ## Questions
   If you have any questions about this project, please open an issue or use the contact information below:
