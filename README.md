@@ -9,11 +9,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-A photography portfolio built with React.
+A photography portfolio built with React; complete with Jest tests, modals and contact form.
 
 ## Deployment
-```npm start``` - Runs the app in the development mode. Open http://localhost:3000 to view it in your browser.
-
+https://katiechurchwell.github.io/photo-port/
 
 ## Screenshot
 ![Screenshot of the photography portfolio](/screenshot.png)
